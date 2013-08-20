@@ -1,4 +1,4 @@
-This is me making sure I understand Git.
+This is me making sure I understand Git.  changes
 
 I modified this file and applying it to master.
 
