@@ -7,3 +7,6 @@ I think I understand this, at least via making file changes within the web brows
 Made some commits and changes via cmd as well.
 
 Added a file to the repo.
+
+Adding a few lines
+at the end of Readme to understand conflicts and merges.
