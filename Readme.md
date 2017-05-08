@@ -8,4 +8,5 @@ Made some commits and changes via cmd as well.
 
 Added a file to the repo.
 
-Removed a line from the file.
+Adding a few lines
+at the end of Readme to understand conflicts and merges.
