@@ -1,8 +1,5 @@
-This is me making sure I understand Git.  changes
+This is me making sure I understand Github.
 
-I modified this file and applying it to master.
+Creating a default document in master, and then modify it in a branch, then merge back to master.
 
-Create beta branch. Attempt 3
-
-changes
-
+Master Branch will contain this line. I want to remove it in a branch and merge back to master.
