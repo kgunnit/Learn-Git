@@ -1,0 +1,1 @@
+This is a file I created in cmd on Windows to better understand how this git thing works.
