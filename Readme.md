@@ -11,4 +11,4 @@ Added a file to the repo.
 Adding a few lines
 at the end of Readme to understand conflicts and merges.
 
-Is this something else I can add?
+Need to remember to do a pull request before I push changes to the repo.
