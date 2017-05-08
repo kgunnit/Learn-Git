@@ -5,3 +5,5 @@ Creating a default document in master, and then modify it in a branch, then merg
 I think I understand this, at least via making file changes within the web browser.
 
 Made some commits and changes via cmd as well.
+
+Added a file to the repo.
