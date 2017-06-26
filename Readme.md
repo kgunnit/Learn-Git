@@ -25,3 +25,5 @@ at the end of Readme to understand conflicts and merges.
             - git branch <new-branch-name>
             - git checkout <branch-name>
         - Do a pull before pushing a commit to make sure there are no changes
+
+** README.md formatting info: ** [Basic Writing And Formatting Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
