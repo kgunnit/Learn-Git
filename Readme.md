@@ -21,7 +21,9 @@ at the end of Readme to understand conflicts and merges.
 
 How does this work?
 
+Include this text in master - latest commit -1
 
+Cherry pick this commit
 ---
 
 ## Things to Remember
