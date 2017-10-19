@@ -16,6 +16,17 @@ at the end of Readme to understand conflicts and merges.
 # A Header
 ## And Another
 ### And a Third
+<<<<<<< HEAD
+=======
+
+### Testing a cherry pick
+
+How does this work?
+
+Include this text in master - latest commit -1
+
+Cherry pick this commit
+>>>>>>> de666a3... test commit on this branch
 ---
 
 # Things to Remember
